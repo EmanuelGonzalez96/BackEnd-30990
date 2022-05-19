@@ -1,0 +1,23 @@
+{
+  "name": "backend-30990",
+  "version": "1.0.0",
+  "description": "",
+  "main": "desafioClase2.js",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmanuelGonzalez96/BackEnd-30990.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmanuelGonzalez96/BackEnd-30990/issues"
+  },
+  "homepage": "https://github.com/EmanuelGonzalez96/BackEnd-30990#readme"
+}
